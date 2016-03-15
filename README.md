@@ -1,2 +1,2 @@
 # atom-conf
-Protected zip of ~/.atom in case my laptop explodes. 
+apm install `cat packages.list`
